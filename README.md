@@ -15,5 +15,5 @@ If you like to contract me for OpenSource Consulting, Kubernetes DevOps, or C de
 
 ## Current projects
 
-* [libsqsh](https://github.com/Gottox/libsqsh)
-* [cextras](https://github.com/Gottox/cextras)
+* [sqsh-tools](https://github.com/Gottox/sqsh-tools)
+* [rustcloak-operator](https://github.com/withlazers/rustcloak-operator)
