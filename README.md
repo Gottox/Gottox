@@ -2,7 +2,7 @@
 
 It was nice here!
 
-## You can find me here:
+## I'm moving my OpenSource development to
 
 [![CodeBerg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Codeberg_logo_horizontal.svg/330px-Codeberg_logo_horizontal.svg.png)](https://codeberg.org/Gottox)
 
