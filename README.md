@@ -11,4 +11,4 @@ It was nice here!
 
 Some of the projects will persist as Github mirrors.
 
-![](https://assets.chaos.social/cache/media_attachments/files/116/289/488/532/402/677/original/eb1f38e69aef5ff4.jpg)
+<img width="667" height="500" alt="image" src="https://github.com/user-attachments/assets/e9c79756-0cdc-499d-be55-079844009886" />
